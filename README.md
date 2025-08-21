@@ -1,6 +1,6 @@
 # Yogesh-Nandha
 
-<h1 align="center">Hi 👋, I'm YogeshNandha</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Nandha</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 - 🔭 I’m currently working on **Banking Authentication App**
