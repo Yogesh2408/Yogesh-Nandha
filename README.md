@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Yogesh Nandha</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+<h2 align="center">8.8 years of total experience in Software Development | Good understanding of Android, Java and Kotlin |
+Working experience in Agile Development and Scrum methodology, Testing, Client Interactions,
+Documentations, Product Deployment, ALM tools(codeBeamer & Jira), Jenkins</h2>
+
+
 - 🔭 I’m currently working on **Banking Authentication App**
 
 - 🌱 I’m currently learning **Ios and Flutter**
